@@ -28,12 +28,12 @@ npm install
 4. **Start the development server**
 npm start
 
-🌐 API Reference
+## 🌐 API Reference
 This app uses the TMDB API to fetch data. Endpoints used:
 /movie/popular
 /search/movie
 
-📁 Project Structure
+## 📁 Project Structure
 react-movie-app/
 ├── public/
 ├── src/
