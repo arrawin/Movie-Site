@@ -9,13 +9,6 @@ A simple React application that displays popular movies using the TMDB (The Movi
 - ♻️ Reusable `MovieCard` component
 - 📱 Responsive and clean UI
 
-## 🖼️ Demo
-
-> _Add a screenshot or GIF preview here_
->  
-> Example:  
-> ![App Demo](./demo.gif)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, JavaScript (ES6), CSS3
