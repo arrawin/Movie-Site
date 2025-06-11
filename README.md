@@ -1,5 +1,5 @@
 # Movie-Site
-A simple React application that displays popular movies using the TMDB (The Movie Database) API. Users can search for movies and view them in a visually appealing grid layout.
+A simple React application that displays popular movies using the TMDB (The Movie Database) API. Users can search for movies and view them in a visually appealing grid layout!
 
 ## 🚀 Features
 
